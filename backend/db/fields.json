@@ -1,0 +1,39 @@
+[
+  {
+    "name": "fecha",
+    "required": true,
+    "type": "date"
+  },
+  {
+    "name":"precio",
+    "required":true,
+    "type":"float",
+    "min":100.0,
+    "max":1000.0
+  },
+  {
+    "name": "productos",
+    "required": true,
+    "type": "object",
+    "fields": [
+      {
+        "name": "nombre",
+        "required": true,
+        "type": "string",
+        "pattern": "?-###"
+      },
+      {
+        "name": "coste",
+        "required": true,
+        "type": "float",
+        "min": 0,
+        "max": 100.0
+      },
+      {
+        "name":"fecha-caducidad",
+        "required":true,
+        "type":"date"
+      }
+    ]
+  }
+]

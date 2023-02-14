@@ -1,0 +1,272 @@
+[
+    {
+        "fecha": "2021-01-20T03:44:16",
+        "precio": 740.28,
+        "productos": {
+            "nombre": "D-628",
+            "coste": 11.09,
+            "fecha-caducidad": "2020-03-12T11:37:50"
+        }
+    },
+    {
+        "fecha": "2022-01-01T13:26:23",
+        "precio": 212.94,
+        "productos": {
+            "nombre": "X-352",
+            "coste": 51.07,
+            "fecha-caducidad": "2020-12-14T19:45:00"
+        }
+    },
+    {
+        "fecha": "2022-07-16T20:18:14",
+        "precio": 510.4,
+        "productos": {
+            "nombre": "g-835",
+            "coste": 74.13,
+            "fecha-caducidad": "2020-05-09T08:56:30"
+        }
+    },
+    {
+        "fecha": "2020-05-05T10:45:39",
+        "precio": 365.63,
+        "productos": {
+            "nombre": "P-093",
+            "coste": 22.93,
+            "fecha-caducidad": "2022-06-24T13:13:09"
+        }
+    },
+    {
+        "fecha": "2020-10-12T20:16:34",
+        "precio": 713.49,
+        "productos": {
+            "nombre": "q-390",
+            "coste": 70.85,
+            "fecha-caducidad": "2021-12-06T05:31:02"
+        }
+    },
+    {
+        "fecha": "2022-01-13T07:32:02",
+        "precio": 826.56,
+        "productos": {
+            "nombre": "U-453",
+            "coste": 88.12,
+            "fecha-caducidad": "2020-06-02T13:27:24"
+        }
+    },
+    {
+        "fecha": "2021-11-26T21:42:56",
+        "precio": 344.92,
+        "productos": {
+            "nombre": "l-594",
+            "coste": 95.04,
+            "fecha-caducidad": "2022-10-29T19:21:20"
+        }
+    },
+    {
+        "fecha": "2020-08-26T09:48:45",
+        "precio": 505.24,
+        "productos": {
+            "nombre": "a-646",
+            "coste": 34.98,
+            "fecha-caducidad": "2022-09-12T21:48:32"
+        }
+    },
+    {
+        "fecha": "2020-10-13T08:55:30",
+        "precio": 180.1,
+        "productos": {
+            "nombre": "f-386",
+            "coste": 70.52,
+            "fecha-caducidad": "2022-12-06T10:44:48"
+        }
+    },
+    {
+        "fecha": "2021-06-22T18:19:50",
+        "precio": 934.71,
+        "productos": {
+            "nombre": "C-842",
+            "coste": 48.01,
+            "fecha-caducidad": "2022-02-10T10:23:16"
+        }
+    },
+    {
+        "fecha": "2020-02-27T23:50:23",
+        "precio": 517.69,
+        "productos": {
+            "nombre": "i-991",
+            "coste": 90.4,
+            "fecha-caducidad": "2021-06-14T19:00:32"
+        }
+    },
+    {
+        "fecha": "2021-03-31T07:19:28",
+        "precio": 656.45,
+        "productos": {
+            "nombre": "M-438",
+            "coste": 3.26,
+            "fecha-caducidad": "2022-08-25T06:51:36"
+        }
+    },
+    {
+        "fecha": "2021-06-16T02:50:14",
+        "precio": 891.78,
+        "productos": {
+            "nombre": "g-083",
+            "coste": 27.26,
+            "fecha-caducidad": "2021-03-11T07:16:46"
+        }
+    },
+    {
+        "fecha": "2021-08-11T18:18:54",
+        "precio": 897.71,
+        "productos": {
+            "nombre": "p-385",
+            "coste": 44.65,
+            "fecha-caducidad": "2020-05-04T20:36:56"
+        }
+    },
+    {
+        "fecha": "2022-08-10T13:47:10",
+        "precio": 379.68,
+        "productos": {
+            "nombre": "N-451",
+            "coste": 43.1,
+            "fecha-caducidad": "2020-11-21T22:05:13"
+        }
+    },
+    {
+        "fecha": "2022-10-29T18:22:48",
+        "precio": 434.02,
+        "productos": {
+            "nombre": "u-808",
+            "coste": 31.95,
+            "fecha-caducidad": "2022-02-25T15:18:49"
+        }
+    },
+    {
+        "fecha": "2022-12-11T03:01:29",
+        "precio": 676.86,
+        "productos": {
+            "nombre": "u-288",
+            "coste": 4.03,
+            "fecha-caducidad": "2022-06-11T09:45:10"
+        }
+    },
+    {
+        "fecha": "2021-02-03T07:02:58",
+        "precio": 878.93,
+        "productos": {
+            "nombre": "p-315",
+            "coste": 1.91,
+            "fecha-caducidad": "2022-04-12T03:38:18"
+        }
+    },
+    {
+        "fecha": "2022-03-18T17:24:53",
+        "precio": 734.84,
+        "productos": {
+            "nombre": "M-775",
+            "coste": 48.29,
+            "fecha-caducidad": "2022-03-14T01:15:21"
+        }
+    },
+    {
+        "fecha": "2022-09-05T00:14:37",
+        "precio": 295.13,
+        "productos": {
+            "nombre": "m-162",
+            "coste": 32.41,
+            "fecha-caducidad": "2021-11-13T20:57:02"
+        }
+    },
+    {
+        "fecha": "2020-11-06T06:06:40",
+        "precio": 832.96,
+        "productos": {
+            "nombre": "K-067",
+            "coste": 1.29,
+            "fecha-caducidad": "2022-06-09T13:10:29"
+        }
+    },
+    {
+        "fecha": "2020-05-01T00:40:16",
+        "precio": 794.18,
+        "productos": {
+            "nombre": "I-608",
+            "coste": 24.67,
+            "fecha-caducidad": "2022-03-14T18:43:08"
+        }
+    },
+    {
+        "fecha": "2022-05-15T23:56:28",
+        "precio": 600.38,
+        "productos": {
+            "nombre": "c-668",
+            "coste": 26.99,
+            "fecha-caducidad": "2022-06-18T18:35:05"
+        }
+    },
+    {
+        "fecha": "2020-10-26T11:04:11",
+        "precio": 165.03,
+        "productos": {
+            "nombre": "o-209",
+            "coste": 34.72,
+            "fecha-caducidad": "2022-09-27T10:10:33"
+        }
+    },
+    {
+        "fecha": "2021-05-18T06:03:05",
+        "precio": 828.32,
+        "productos": {
+            "nombre": "C-426",
+            "coste": 12.29,
+            "fecha-caducidad": "2021-09-23T00:31:36"
+        }
+    },
+    {
+        "fecha": "2021-08-05T18:26:49",
+        "precio": 733.51,
+        "productos": {
+            "nombre": "t-942",
+            "coste": 30.8,
+            "fecha-caducidad": "2021-09-24T16:04:47"
+        }
+    },
+    {
+        "fecha": "2020-05-10T03:37:59",
+        "precio": 748.79,
+        "productos": {
+            "nombre": "j-215",
+            "coste": 13.98,
+            "fecha-caducidad": "2022-12-13T12:14:37"
+        }
+    },
+    {
+        "fecha": "2020-11-29T14:46:19",
+        "precio": 485.91,
+        "productos": {
+            "nombre": "U-392",
+            "coste": 30.78,
+            "fecha-caducidad": "2022-01-05T20:56:49"
+        }
+    },
+    {
+        "fecha": "2022-01-04T11:45:13",
+        "precio": 943.64,
+        "productos": {
+            "nombre": "i-908",
+            "coste": 48.35,
+            "fecha-caducidad": "2020-05-22T21:47:44"
+        }
+    },
+    {
+        "fecha": "2020-09-05T17:28:54",
+        "precio": 422.99,
+        "productos": {
+            "nombre": "g-655",
+            "coste": 10.39,
+            "fecha-caducidad": "2022-09-29T16:47:25"
+        }
+    }
+]

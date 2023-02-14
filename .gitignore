@@ -1,3 +1,6 @@
 # Im ignoring by now the python script. It will exist on its own repository.
-
 /scripts
+
+# Node_modules folders
+frontend/node_modules
+backend/node_modules
