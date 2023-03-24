@@ -90,6 +90,55 @@ By now I don't have plans to go open-source. However, any suggestions are more t
 
 Fill free to contact me for anything at alemalvarez@icloud.com.
 
+## Para Vicent
+
+Te escribo una guía para trabajar en el proyecto, síguela si quieres.
+
+1. Crea una branch.
+
+La buena práctica es crear una rama para cada característica que vayas a desarrollar, para no pisarte unas y otras. **Asegúrate de que estás en la rama dev y no en main**. Eso puedes comprobarlo con "git branch". Saldrá un asterisco en la que estés. 
+Desde ahí, usa
+```bash
+git checkout -b <nombre de tu característica>
+```
+
+2. Cambia lo que quieras.
+
+Asegúrate de que estés en la rama de la característica que estés desarrollando. Haz tus cambios y asegúrate de que no se rompe nada.
+
+3. Haz commit de los cambios.
+
+Con git status puedes ver los cambios que has hecho. Para añadirlos a un commit:
+```bash
+git add <nombre de tus archivos cambiados o . para añadirlos todos>
+```
+Cuando esté todo, haz commit:
+```bash
+git commit -m "<un mensaje diciendo lo que has cambiado>"
+```
+
+4. Júntalo a la rama dev.
+
+Cuando tu característica esté acabada, júntala a dev y súbela a github.
+
+```bash
+git checkout dev
+git merge <tu rama de característica>
+git push
+```
+
+5. Si funciona bien lo junto a main.
+
+Yo me lo descargo, lo pruebo y si funciona lo junto a main y queda así.
+
+
+
+
+
+
+
+
+
 
 
 
