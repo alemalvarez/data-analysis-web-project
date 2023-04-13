@@ -4,7 +4,7 @@ export class Instructions extends Component {
 
   render() {
     return(
-      <p>Hola Alejandro</p>
+      <p>Adiós Alejandro</p>
     )
   }
 
