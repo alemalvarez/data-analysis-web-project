@@ -1,5 +1,4 @@
 import {Component} from 'react';
-
 import {NewSale} from './NewSale';
 import {Sales} from './Sales';
 
